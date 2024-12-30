@@ -15,7 +15,7 @@ Un projet en **C#** utilisant une **liste générique** pour gérer les informat
 ## Technologies utilisées 💻
 
 - **Langage :** C#
-- **Outil : ** git
+- **Outil :** git
 - **Collections :** Liste générique (`List<T>`)
 - **Opérations :** CRUD (Create, Read, Update, Delete)
 
